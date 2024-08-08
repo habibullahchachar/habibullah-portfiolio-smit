@@ -1,0 +1,137 @@
+
+
+
+.main{
+
+width: 1200px;
+height: 600px;
+background-color: black;
+display: flex;
+/* flex-diretion: row; */
+flex-wrap:wrap ;
+color: white;
+/* padding: 90px; */
+}
+.text{
+    /* margin-top:80px; */
+    color: white;
+    /* width: 49%; */
+    /* flex-wrap: wrap; */
+    text-align: center;
+       font-family: "Noto Serif", serif;
+       margin-left: 20px;
+
+
+}
+
+
+.pic{
+
+ width: 49%;
+ color: white;
+ flex-wrap: wrap;
+ /* margin-top: 0px; */
+ /* display: flex; */
+ height: 200px;
+ 
+
+
+
+}
+
+.mwww{
+    width: 100%;
+    background-color: black;
+}
+.h11{
+    margin-top: 150px;
+    margin-right: 300px;
+    color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+
+.about{
+    width: 100%;
+    /* display: flex; */
+    height: 300px;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    justify-content: center;
+}
+.meee{
+    text-align: center;
+    margin-top: 0PX;
+    color: orange;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.jii{
+margin-top: 100px;
+font-family: "Playfair Display", serif;
+color: rgba(255, 255, 254, 0.418);
+
+
+
+
+}
+.cont{
+ width: 100%;
+ height: 700px;
+ background-color: rgb(22, 22, 22);
+ /* display: flex; */
+
+
+}
+.assi{
+    /* align-items: center; */
+    color: rgba(112, 73, 0, 0.644);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 70px;
+    margin-left: 500PX;
+    font-size: 50PX;
+    /* width: 100%; */
+    
+}
+.cre{
+display: flex;
+/* flex-direction: row; */
+width: 100%;
+flex-wrap: wrap;
+justify-content: center;
+
+
+}
+.card1{
+    width: 300px;
+    height: 300px;
+  background-color: rgba(39, 38, 38, 0.726);
+  margin-top: 60px;
+  margin-left: 100px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px 10px rgb(37, 37, 37);
+  /* flex-wrap: wrap; */
+
+}
+.img1{
+
+     justify-content: center;
+     border-radius: 20px;
+     margin-top: 6px;
+}
+.card2{ width: 300px;
+    height: 300px;
+  background-color: rgba(39, 38, 38, 0.726);
+  margin-top: 60px;
+  margin-left: 100px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px 10px rgb(37, 37, 37);
+/* flex-wrap: wrap; */
+
+}
+
+
+
+

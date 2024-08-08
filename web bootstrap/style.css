@@ -1,0 +1,284 @@
+.h1 {
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  /* font-family: "Roboto Mono", monospace; */
+  margin-top: 200px;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 60px;
+
+
+}
+
+.h2 {
+  flex-wrap: wrap;
+  /* font-family: "Roboto Mono", monospace; */
+  /* margin-top: 300px; */
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 60px;
+
+}
+
+.nav {
+  justify-content: center;
+  margin-top: 80PX;
+  /* margin-left: 200px; */
+  flex-shrink: 10px;
+
+
+}
+
+
+.main {
+
+  margin-top: 50px;
+  /* padding: 0%; */
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10px;
+
+
+
+}
+
+.div1 {
+
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.28\ AM\ \(1\).jpeg);
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+
+
+
+}
+
+.div2 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.24\ AM\ \(1\).jpeg);
+  flex-wrap: wrap;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+
+.div3 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.24\ AM\ \(2\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+
+
+
+
+.div4 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM.jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+
+
+.div5 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(1\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div6 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(2\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+
+.div7 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(3\).jpeg);
+
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+
+.div8 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(4\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+
+.div9 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(5\).jpeg
+);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+
+}
+
+.div0 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.25\ AM\ \(6\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div11 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.26\ AM.jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div22 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.26\ AM\ \(1\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div33 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.26\ AM\ \(2\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div44 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.27\ AM.jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div55 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.27\ AM\ \(1\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+}
+
+.div54 {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+  box-shadow: 3px 3p 3px 3px gainsboro;
+  flex-wrap: wrap;
+  background-image: url(./Assets/WhatsApp\ Image\ 2024-07-29\ at\ 12.08.28\ AM\ \(1\).jpeg);
+  text-align: center;
+  color: white;
+  font-size: 30PX;
+  font-family: bold;
+
+}
+
+.nav12{
+
+  background-color: black;
+  margin-top: 50px;
+  padding: 10px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  gap: 260px;
+}
